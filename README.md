@@ -56,3 +56,7 @@ graph TD
 
 * choose storage format for raw text, timestamps and metadata
 * choose a vector DB for the project
+
+## Links
+
+* https://github.com/m-bain/whisperX
